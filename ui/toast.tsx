@@ -121,7 +121,7 @@ export {
   type ToastActionElement,
   ToastProvider,
   ToastViewport,
-  Toast,
+  toast,
   ToastTitle,
   ToastDescription,
   ToastClose,
