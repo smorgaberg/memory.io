@@ -15,7 +15,7 @@ import {
 } from "@/components/ui/popover";
 import { Calendar } from "@/components/ui/calendar"; // Shadcn Calendar component
 import { Calendar as CalendarIcon } from "lucide-react"; // Icon for Calendar button
-import toast from "@/components/ui/toast"; // Shadcn toast component
+import Toast from "@/components/ui/toast"; // Shadcn toast component
 
 export default function MemorialPage() {
   const [description, setDescription] = useState(""); // 추모일 설명 입력 상태
